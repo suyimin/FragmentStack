@@ -1,5 +1,6 @@
-#FragmentStack
+# FragmentStack
 
+A copy of https://github.com/Mr-wangyong/FragmentStack.
 
 >一个封装了启动模式的Fragment便捷使用库,方便构建单Activity+多Fragment轻量级框架。
 
